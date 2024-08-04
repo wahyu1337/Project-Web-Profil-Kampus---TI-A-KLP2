@@ -19,14 +19,14 @@ KELOMPOK 2 TI-A PEMROGRAMAN WEB I (FINAL)
 
 TUGAS TIAP ANGGOTA:
 
-  Maspar(HTML) : MEMBUAT HALAMAN PENDAFTARAN(html)
+  Maspar(HTML) : MEMBUAT HALAMAN LOGIN(html)
 
   Aldin(HTML) : MEMBUAT ISI KONTEN HALAMAN (HEADER, SIDEBAR)
 
-  Wilda(IMAGE SOURCE/IMG): MEMBUAT ISI KONTEN HALAMAN & PROGRAM STUDI (Mencari Logo/gambar yang tepat buat konten, program studi MK dll)
+  Wilda(IMAGE SOURCE/IMG): MENCARI GAMBAR KONTEN HALAMAN & PROGRAM STUDI (Mencari Logo/gambar yang tepat buat konten, program studi MK dll)
 
   Wahyu(CSS) : Style Halaman Pendaftaran
-               Style Halaman Konten
+               Membuat Halaman Konten & Style Halaman Konten
                Style Halaman Program Studi
                Style Halaman About/Tentang
   
